@@ -1,0 +1,11 @@
+{
+    "name": "drone-challenge",
+    "version": "1.0.0",
+    "description": "Simple program that takes instructions from standard input (<, >, ^, v, x) and prints the locations of photographs taken more than once",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "John Merchant <john@merchant.on.net>",
+    "license": "MIT"
+}
